@@ -1,0 +1,15 @@
+[submodule "UserAuthService"]
+	path = UserAuthService
+	url = https://github.com/Dorian-Mayamba/UserAuthService.git
+[submodule "WatchService"]
+	path = WatchService
+	url = https://github.com/Dorian-Mayamba/WatchService.git
+[submodule "LikeService"]
+	path = LikeService
+	url = https://github.com/Dorian-Mayamba/LikeService.git
+[submodule "ReviewService"]
+	path = ReviewService
+	url = https://github.com/Dorian-Mayamba/ReviewService.git
+[submodule "movie-api-gateway"]
+	path = movie-api-gateway
+	url = https://github.com/Dorian-Mayamba/movie-api-gateway.git
